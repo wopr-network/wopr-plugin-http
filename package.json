@@ -15,6 +15,9 @@
     "@wopr-network/plugin-types": "^0.1.0",
     "hono": "^4.0.0"
   },
+  "keywords": [
+    "wopr-plugin"
+  ],
   "devDependencies": {
     "@biomejs/biome": "^2.0.0",
     "@types/node": "^20.0.0",
